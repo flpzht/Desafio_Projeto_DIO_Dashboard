@@ -17,5 +17,7 @@ Compartilhar o link do repositório GitHub como entrega do desafio.
 
 Materiais de Apoio
 Base de Dados: base.xlsx
-
 Dashboard Finalizado: dashboard_xbox_finalizado.xlsx
+
+Arquivo Final com gráfico adicional:
+Desafio_Projeto_DIO_Dashboard.xlsx
